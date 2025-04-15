@@ -12,10 +12,10 @@
 
 Остальные репозитории это как правило либо лабораторные, либо какие-то мелкие заброшенные проекты
 
-<a href="https://github.com/11ALX11/github-readme-stats">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=11ALX11&show_icons=true&theme=transparent" />
 </a>
 
-<a href="https://github.com/11ALX11/convoychat">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11ALX11&show_icons=true&theme=transparent&layout=compact" />
 </a>
