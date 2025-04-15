@@ -4,6 +4,11 @@
 - https://github.com/HeyJIOBUM/Berezovskoye         - сайт для брестгаза (nextjs + spring + docker и прочее)
 - https://github.com/11ALX11/Natural-selection-demo - симуляция простой модели естественного отбора на godot
 
+Вне гитхаба
+- FiveNightAtUniversity (Unreal Engine 5) - работа с ИИ: контроллеры, детектирование, передвижение по карте и просто логика
+- Симулятор артиллериста для военной кафедры БрГТУ (Unreal Engine 5) - неткод, RPC функции и интерфейс + меню
+- Установка и настройка gitea c lfs
+
 Курсовые:
 - https://github.com/11ALX11/SPP_kurz  - телеграм-бот на java для скачивания музыки (звуков) с youtube
 - https://github.com/11ALX11/SP_kurz   - драва виртуального монитора (в основном код заимствован, хотя интересно)
